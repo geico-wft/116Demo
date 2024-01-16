@@ -34,4 +34,7 @@ public class Main {
  * Git is a version control tool, that allows us to manage & keep a history of
  * different version of our project, where every version is a "commit".
  * A git repository is just a folder where Git is keeping track of versioning.
+ * git init (start the local repository in the current folder)
+ * git add . (keep track of this file for the next commit - . is just short for all files)
+ * git commit -m "message" (create a new version of the project with a certain name)
  */
